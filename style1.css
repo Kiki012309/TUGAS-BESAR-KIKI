@@ -202,6 +202,7 @@ nav {
 .home-img{
     width: 300px;
     height: 410px;
+    padding-top: 15%;
 }
 
 
@@ -238,15 +239,12 @@ nav {
     filter: blur(10px);
 }
 
-.image{
+.home-img image{
+   padding-bottom: 90%; 
    width: 1000%;
    height: 500px;
-
+   margin-top: 1000px;
    
-    
-    
-    
-
 
 }
 
